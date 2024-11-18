@@ -44,12 +44,12 @@ body {
 
 .input-box input {
     width: 100%;
-    padding: 10px;
+    padding: 10px;sasasasa
     font-size: 16px;
     border: 2px solid rgba(255, 255, 255, 0.3);
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.2);
-    color: black;
+    color: white;
     outline: none;
     transform: 0.3s;
 }
